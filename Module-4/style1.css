@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2zYxbpmZcdWZltdoC-2otOEI9SFs7RB5uAg&usqp=CAU")
+}
+
+.center {
+    text-align: center;
+}
+
+.center {
+    font-size: 100px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: 20px solid gold;
+}
+
+p, h3, h4, ul {
+    font-family: cursive;
+}
+
+h4 {
+    font: bold;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe{
+    border: 15px solid gold;
+}

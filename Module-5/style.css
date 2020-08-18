@@ -1,0 +1,51 @@
+
+
+
+#p1 {
+    color: red;
+}
+#p2 {
+    color: blue;
+}
+#p3 {
+    color: green;
+}
+#p4 {
+    font-size: xx-large;
+}
+#p5 {
+    font-size: small;
+}
+.center {
+    text-align: center;
+}
+#p7 {
+    font-weight: bold;
+}
+#p8 {
+    font-family: cursive;
+}
+#p9 {
+    font-weight: bold;
+    font-size: xx-large; 
+    font-style: italic; 
+    color: orange;
+    text-decoration: underline;
+}
+.styledFont {
+    color: green;
+}
+
+img {
+    border: 7px solid orange
+}
+
+body{
+
+        border: 40px;
+        padding:20px;
+        margin: 40px;
+        box-shadow: 0px 20px 20px -5px grey;
+
+    
+}

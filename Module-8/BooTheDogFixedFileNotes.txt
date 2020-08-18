@@ -1,0 +1,22 @@
+HTML:
+
+I notice that the file was not linked correctly.
+
+This i was able to check in Google Dev tools 
+<script type="text/javascript" src="logic.js"></script>
+I Fixed the link by adding a target to it so it may open in another window.
+I fixed image by setting an alternate text for an image 
+added an order list <ol> to make a list 
+Change to the correct color buttons 
+
+JS:
+
+I fix the Viarbles for booFacts I add the Quotations " " to separate the statements in sections.
+I added Quotation to "click" as it was not defined 
+
+
+CSS:
+I added a comma between .jumbotron and h1 to separate these sections.
+I added a font size to .jumbotron  63px
+
+
